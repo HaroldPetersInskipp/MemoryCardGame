@@ -1,6 +1,8 @@
 # MemoryCardGame
 A simple card matching game.
 
+<img src="Screenshot.png">
+
 # Instructions - Import into Node-Red
 This flow can be imported into the Node-Red editor using the ```flow.json``` file.
 
